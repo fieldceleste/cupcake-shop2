@@ -5,3 +5,9 @@
     font-size: 30px;
     font-style: italic;
 }
+.best {
+    color: blueviolet;
+    text-decoration: underline;
+    font-style: bold ;
+  
+}
