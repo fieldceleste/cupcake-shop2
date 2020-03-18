@@ -1,13 +1,14 @@
-.flashy{
-    width: 100%;
-    padding: 10px;
+h1 {
     color: red;
-    font-size: 30px;
     font-style: italic;
 }
+h4 {
+    color: red;
+    font-style: italic;
+}
+
 .best {
-    color: blueviolet;
-    text-decoration: underline;
-    font-style: bold ;
-  
+    color: seagreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
 }
